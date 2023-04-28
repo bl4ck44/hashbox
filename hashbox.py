@@ -1,5 +1,7 @@
 import hashlib
+import os
 
+os.system("clear")
 
 print("\033[34m   ___ ___               .__   ___.                   \033[0m")
 print("\033[34m  /   |   \_____    _____|  |__\_ |__   _______  ___  \033[0m")
