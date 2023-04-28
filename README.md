@@ -13,3 +13,7 @@ cd hashbox
 
 python3 hashbox.py
 ```
+
+<p align="center">
+<img src="Img/hash.png">
+</p>
